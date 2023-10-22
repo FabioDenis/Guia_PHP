@@ -1,0 +1,71 @@
+body{
+    background-color: #dadada;
+}
+header{
+    background-color: #bababa;
+    
+}
+
+.Titulo-Guia-PHP{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0%;
+    font-size: 3em;
+}
+
+#contenedor-nav-aside{
+    display: flex;
+    
+    
+}
+.nav{
+    border: solid 2px;
+    padding: 4%;
+    background-color: #bababa;
+}
+.div-nav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    font-size: 1.75em;
+}
+.hipervinculo{
+    text-decoration: none;
+    color: black;
+}
+#aside{
+    
+    font-size: 2em;
+    width: 100%;
+    border: solid 0.5px ;
+    
+    
+   
+}
+.div-aside{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
+}
+
+
+.contenedor-principal-ejercicios{
+    display: flex;
+    margin-top: 15%;
+}
+.div-codigo{
+    font-size: 0.4em;
+    width: 100%;
+    margin-left: 10%;
+    border: solid 0.5px;
+    border-radius: 10px;
+    
+
+}
+.div-funcionalidad{
+    font-size: 0.4em;
+    width: 100%;
+    border: solid 0.5px;
+    border-radius: 10px;
+    margin-left: 5%;
+    text-align: center;
+
+}
